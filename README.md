@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 💻 I'm a freshman from USETC.
+- 🌱 I’m currently learning AI and adapting to college life.
+- 📫 How to reach me: email me at cnsdlzd@outlook.com
+- 😄 Pronouns: he/his
 <!--
 **ghostdoglzd/ghostdoglzd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
