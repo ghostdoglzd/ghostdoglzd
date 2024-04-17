@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💻 I'm a freshman from USETC.
+- 💻 I'm a freshman from UESTC.
 - 🌱 I’m currently learning AI and adapting to college life.
 - 📫 How to reach me: email me at cnsdlzd@outlook.com
 - 😄 Pronouns: he/his
